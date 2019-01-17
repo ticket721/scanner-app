@@ -1,2 +1,2 @@
-# t721-scanner-app
-t721-scanner-app - Mobile app to scan tickets
+# scanner-app
+Mobile app to scan tickets
