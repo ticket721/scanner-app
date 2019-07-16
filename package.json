@@ -1,7 +1,7 @@
 {
     "name": "@ticket721/scanner-app",
     "private": true,
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "scanner-app - Mobile app to scan tickets",
     "main": "index.js",
     "scripts": {
